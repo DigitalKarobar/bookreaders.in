@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Atomic Habits",
+        "category": "Finance",
+        "amazonLink": "https://amzn.to/3qdF7aE",
+        "imageURL": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
+        "bestSeller": true
+    },
+    {
+      "title": "Shrimad Bhagwat Geeta Yatharoop",
+      "category": "Mythological",
+      "amazonLink": "https://amzn.to/477VjLj",
+      "imageURL": "https://m.media-amazon.com/images/P/B0C13MQDHH.01._SCLZZZZZZZ_SX500_.jpg",
+      "bestSeller": false
+    },
+    {
+      "title": "Who Will Cry When You Die?",
+      "category": "Non-Fiction",
+      "amazonLink": "https://amzn.to/46PdwNz",
+      "imageURL": "https://m.media-amazon.com/images/I/21Hh+QOJKfL.jpg",
+      "bestSeller": false
+    }
+  ]
+  
